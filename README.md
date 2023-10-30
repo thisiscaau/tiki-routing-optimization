@@ -4,10 +4,10 @@ Cuối tuần vừa rồi, đội của mình đã tham gia vào cuộc thi SOIC
 P/s: code trên được viết vào lúc 3h sáng khi đang xem The International nên là .... good luck.
 
 ### Team members
-- Lê Minh Khánh ([@thisiscaau] (https://github.com/thisiscaau))
-- Vũ Hoàng Minh ([@vhm1605] (https://github.com/vhm1605))
-- Đỗ Tuấn Nam ([@NamDT-146] (https://github.com/NamDT-146))
-- Mai Đức Mạnh ([@Snuc1925] (https://github.com/Snuc1925))
+- Lê Minh Khánh [@thisiscaau] (https://github.com/thisiscaau)
+- Vũ Hoàng Minh [@vhm1605] (https://github.com/vhm1605)
+- Đỗ Tuấn Nam [@NamDT-146] (https://github.com/NamDT-146)
+- Mai Đức Mạnh [@Snuc1925] (https://github.com/Snuc1925)
 
 ### Thuật toán vòng sơ khảo
 Tiêu chí: tối đa hóa số đơn hàng có thể giao được.
