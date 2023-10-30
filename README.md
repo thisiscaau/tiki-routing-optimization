@@ -1,4 +1,13 @@
 # TIKI Routing Optimization (hsgs_20)
+Cuối tuần vừa rồi, đội của mình đã tham gia vào cuộc thi SOICT Hackathon 2023 tại Đại Học Bách Khoa Hà Nội! Repository này được tạo ra nhằm lưu lại kỷ niệm cũng như để có thể cải tiến trong tương lai.
+
+P/s: code trên được viết vào lúc 3h sáng khi đang xem The International nên là .... good luck.
+
+### Team members
+- Lê Minh Khánh (@thisiscaau)
+- Vũ Hoàng Minh
+- Đỗ Tuấn Nam
+- Mai Đức Mạnh
 
 ### Thuật toán vòng sơ khảo
 Tiêu chí: tối đa hóa số đơn hàng có thể giao được.
