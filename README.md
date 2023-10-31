@@ -1,5 +1,5 @@
 # TIKI Routing Optimization (hsgs_20)
-Cuối tuần vừa rồi, đội của mình đã tham gia vào cuộc thi SOICT Hackathon 2023 tại Đại Học Bách Khoa Hà Nội! Repository này được tạo ra nhằm lưu lại kỷ niệm cũng như để có thể cải tiến trong tương lai.
+(29-Oct-2023) Cuối tuần vừa rồi, đội của mình đã tham gia vào cuộc thi SOICT Hackathon 2023 tại Đại Học Bách Khoa Hà Nội! Repository này được tạo ra nhằm lưu lại kỷ niệm cũng như để có thể cải tiến trong tương lai.
 
 P/s: code trên được viết vào lúc 3h sáng khi đang xem The International nên là .... good luck.
 
@@ -75,3 +75,11 @@ Mô tả thuật toán:
 - Phân bố các request của xe tải bị xóa vào các xe khác bằng insertion-heuristic
 
 Sau khi có được $child1$ và $child2$, thuật toán sẽ tạo ra bản đột biến của $child1$ và $child2$ với xác suất là 50%.
+
+### What's next?
+Do lần đầu tham gia vào một cuộc thi optimization còn đang bở ngỡ nên phần implementation của chúng mình vẫn đang có rất nhiều điểm yếu cần được cải thiện. Sau đây là những điểm mà bọn mình sẽ cố cải thiện trong thời gian tới:
+- Áp dụng thuật toán tham lam để dựng nên lời gian ban đầu thay vì brute-force
+- Đưa độ phức tạp của hàm Insertion Heuristic về $O(c^2)$ với $c$ là số xe tải.
+- Local Search
+- Multi-threading
+- Benchmark (viết technical report phân tích độ hiểu quả khi thay đổi từng chiến thuật)
